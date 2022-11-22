@@ -1,0 +1,28 @@
+#include <stdio.h>
+
+int main()
+{
+int numero;
+int numero2;
+
+
+    printf("\nInforme os numeros:\n");
+    scanf("%i""%i",&numero ,&numero2);
+
+if (numero%2==0;)
+{
+    printf("\nO [%i] e um numero par.",numero);
+}
+else{
+    printf("\nO [%i] e um numero impar.",numero);
+}
+if (numero2%2==0)
+{
+    printf("\nO [%i] e um numero par.",numero2);
+}
+else{
+    printf("\nO [%i] e um numero impar.",numero2);
+}
+}
+
+    
